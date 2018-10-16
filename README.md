@@ -6,6 +6,8 @@ for restful Hateoas applications. Althought the data model is pretty simple
 i will add more features in the next version of it to demonstrate microservices
 metodologies and patterns.
 
+NOTE : please update redis address in application.properties with your own
+
 The project is based on a small bookmarks web service with both rest apis & ui components
 which uses the following technologies:
 
